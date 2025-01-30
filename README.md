@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things and innovating some things.  
 - 🌱 I’m currently learning how to create advanced applications.  
 - 💞️ I’m looking to collaborate on everything.  
-- ⚡ Fun fact: I joined this coding program because I thought it was like a Rubik's Cube that I could solve through algorithms—but OMG, I don’t want to do it anymore!  
+- ⚡ Fun fact: I joined this coding program because I thought it was like a Rubik's Cube that I could solve through algorithms—but OMG, I don’t want to talk anymore!!
 
 
 <!---
